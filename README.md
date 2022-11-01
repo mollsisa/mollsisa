@@ -6,7 +6,7 @@
 <div><a href="https://github.com/mollsisa"><img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mollsisa&layout=compact&langs_count=7&theme=midnight-purple"/></div>
 
 ### Connect with me:
-[![My Skills](https://skills.thijs.gg/icons?i=discord, instagram)]
+[![My Skills](https://skills.thijs.gg/icons?i=discord, instagram)](https://br.linkedin.com/in/melissa-moll-62318b18b)
 [![My Skills](https://skills.thijs.gg/icons?i=linkedin)](https://br.linkedin.com/in/melissa-moll-62318b18b)
 
 ### Languages and Tools
