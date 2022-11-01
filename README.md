@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://br.linkedin.com/in/melissa-moll-62318b18b)
 
 ### Languages and Tools
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=angular,css,html,js,nodejs" />
   <img src="https://skillicons.dev/icons?i=arduino,c,cs,cpp,dotnet,py" />
   <img src="https://skillicons.dev/icons?i=firebase,mysql"/>
@@ -19,6 +19,6 @@
 </p>
   
 ### Currently learning
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=docker,flutter,linux,mongodb,react,tensorflow" />
 </p>
