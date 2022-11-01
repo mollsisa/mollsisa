@@ -11,9 +11,14 @@
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://br.linkedin.com/in/melissa-moll-62318b18b)
 
 ### Languages and Tools
-<p>
+<p align="cemter">
   <img src="https://skillicons.dev/icons?i=angular,css,html,js,nodejs,arduino,c,cs,cpp,dotnet,py,mysql,figma,git,visualstudio,vscode&perline=5"/>
+  
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,git,visualstudio,vscode"/>
+</p>
+  
   
 ### Currently learning
 <p>
