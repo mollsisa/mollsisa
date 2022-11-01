@@ -2,12 +2,11 @@
 
 *You can read this in other languages: [English](README.md), [Portuguese](README_PT.md)*
 
-## I'm a Developer and Tech enthusiastic!
-<div><a href="https://github.com/mollsisa"><img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mollsisa&layout=compact&langs_count=7&theme=midnight-purple"/></div>
+## I'm a FullStack Developer and Tech enthusiastic!
+
 
 ### Connect with me:
-[![My Skills](https://skills.thijs.gg/icons?i=linkedin)](https://br.linkedin.com/in/melissa-moll-62318b18b)
-[![My Skills](https://skills.thijs.gg/icons?i=discord,instagram)](https://br.linkedin.com/in/melissa-moll-62318b18b)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://br.linkedin.com/in/melissa-moll-62318b18b)
 
 ### Languages and Tools
 [![My Skills]](https://skills.thijs.gg/icons?i=js,ts,html,css,angular,nodejs)](https://br.linkedin.com/in/melissa-moll-62318b18b)(https://br.linkedin.com/in/melissa-moll-62318b18b)
