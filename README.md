@@ -9,10 +9,15 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://br.linkedin.com/in/melissa-moll-62318b18b)
 
 ### Languages and Tools
-[![My Skills]](https://skills.thijs.gg/icons?i=js,ts,html,css,angular,nodejs)](https://br.linkedin.com/in/melissa-moll-62318b18b)(https://br.linkedin.com/in/melissa-moll-62318b18b)
-[![My Skills]](https://skills.thijs.gg/icons?i=c,cpp,arduino,cs,py,dotnet)](https://br.linkedin.com/in/melissa-moll-62318b18b)
-[![My Skills]](https://skills.thijs.gg/icons?i=firebase,mysql)](https://br.linkedin.com/in/melissa-moll-62318b18b)
-[![My Skills]](https://skills.thijs.gg/icons?i=figma,git,vscode,visualstudio)](https://br.linkedin.com/in/melissa-moll-62318b18b)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,css,html,js,nodejs" />
+  <img src="https://skillicons.dev/icons?i=arduino,c,cs,cpp,dotnet,py" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://skillicons.dev/icons?i=figma,git,visualstudio,vscode" />
+</p>
   
 ### Currently learning
 [![My Skills]](https://skills.thijs.gg/icons?i=mongodb,react,tensorflow,linux,raspberry)](https://br.linkedin.com/in/melissa-moll-62318b18b)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,flutter,linux,mongodb,react,tensorflow" />
+</p>
