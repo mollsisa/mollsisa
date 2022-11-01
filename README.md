@@ -7,8 +7,14 @@
 
 ### Connect with me:
 
+  
 ### Languages and Tools
-
-
+<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/angular.svg" />
+<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/createreactapp.svg" />
+<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotnet.svg" />
+<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/csharp.svg" />
+<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/c.svg" />
+<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cplusplus.svg" />
+  
 ### Currently learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
