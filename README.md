@@ -6,15 +6,13 @@
 <div><a href="https://github.com/mollsisa"><img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mollsisa&layout=compact&langs_count=7&theme=midnight-purple"/></div>
 
 ### Connect with me:
-
+[![My Skills](https://skills.thijs.gg/icons?i=discord,instagram,linkedin)](https://skills.thijs.gg)
   
 ### Languages and Tools
-<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/angular.svg" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/createreactapp.svg" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotnet.svg" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/csharp.svg" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/c.svg" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cplusplus.svg" />
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,html,css,angular,nodejs, )](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,arduino,cs,py,dotnet, )](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=firebase,mysql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=figma, git,vscode,visualstudio)](https://skills.thijs.gg)
   
 ### Currently learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+[![My Skills](https://skills.thijs.gg/icons?i=mongodb,react,tensorflow,linux,raspberry)](https://skills.thijs.gg)
