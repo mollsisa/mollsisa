@@ -17,7 +17,6 @@
 </p>
   
 ### Currently learning
-[![My Skills]](https://skills.thijs.gg/icons?i=mongodb,react,tensorflow,linux,raspberry)](https://br.linkedin.com/in/melissa-moll-62318b18b)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,flutter,linux,mongodb,react,tensorflow" />
 </p>
