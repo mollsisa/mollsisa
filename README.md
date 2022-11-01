@@ -9,10 +9,10 @@
 [![My Skills](https://skills.thijs.gg/icons?i=discord,instagram,linkedin)]
   
 ### Languages and Tools
-[!front](https://skills.thijs.gg/icons?i=js,ts,html,css,angular,nodejs)]
-[!back](https://skills.thijs.gg/icons?i=c,cpp,arduino,cs,py,dotnet)]
-[!database](https://skills.thijs.gg/icons?i=firebase,mysql)]
-[!tools](https://skills.thijs.gg/icons?i=figma, git,vscode,visualstudio)]
+[![front]](https://skills.thijs.gg/icons?i=js,ts,html,css,angular,nodejs)]
+[![back]](https://skills.thijs.gg/icons?i=c,cpp,arduino,cs,py,dotnet)]
+[![database]](https://skills.thijs.gg/icons?i=firebase,mysql)]
+[![tools]](https://skills.thijs.gg/icons?i=figma, git,vscode,visualstudio)]
   
 ### Currently learning
-[!learning](https://skills.thijs.gg/icons?i=mongodb,react,tensorflow,linux,raspberry)]
+[![learning]](https://skills.thijs.gg/icons?i=mongodb,react,tensorflow,linux,raspberry)]
