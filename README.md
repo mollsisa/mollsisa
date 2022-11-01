@@ -7,5 +7,3 @@
 ### Connect with me:
 
 ### Languages and Tools
-
-![snake gif](https://github.com/mollsisa/mollsisa/blob/output/github-contribution-grid-snake.gif)
