@@ -7,13 +7,15 @@
 
 ### Connect with me:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://br.linkedin.com/in/melissa-moll-62318b18b)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://br.linkedin.com/in/melissa-moll-62318b18b)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://br.linkedin.com/in/melissa-moll-62318b18b)
 
 ### Languages and Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,css,html,js,nodejs" />
   <img src="https://skillicons.dev/icons?i=arduino,c,cs,cpp,dotnet,py" />
-  <img src="https://skillicons.dev/icons?i=firebase,mysql" />
-  <img src="https://skillicons.dev/icons?i=figma,git,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=firebase,mysql"/>
+  <img src="https://skillicons.dev/icons?i=figma,git,visualstudio,vscode"/>
 </p>
   
 ### Currently learning
