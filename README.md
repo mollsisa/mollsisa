@@ -7,7 +7,7 @@
 
 ### Connect with me:
 [![My Skills](https://skills.thijs.gg/icons?i=linkedin)](https://br.linkedin.com/in/melissa-moll-62318b18b)
-[![My Skills](https://skills.thijs.gg/icons?i=discord, instagram)](https://br.linkedin.com/in/melissa-moll-62318b18b)
+[![My Skills](https://skills.thijs.gg/icons?i=discord,instagram)](https://br.linkedin.com/in/melissa-moll-62318b18b)
 
 ### Languages and Tools
 [![My Skills]](https://skills.thijs.gg/icons?i=js,ts,html,css,angular,nodejs)]
