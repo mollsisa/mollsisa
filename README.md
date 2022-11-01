@@ -12,10 +12,7 @@
 
 ### Languages and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,css,html,js,nodejs" />
-  <img src="https://skillicons.dev/icons?i=arduino,c,cs,cpp,dotnet,py" />
-  <img src="https://skillicons.dev/icons?i=firebase,mysql"/>
-  <img src="https://skillicons.dev/icons?i=figma,git,visualstudio,vscode"/>
+  <img src="https://skillicons.dev/icons?i=angular,css,html,js,nodejs,arduino,c,cs,cpp,dotnet,py,mysql,figma,git,visualstudio,vscode&perline=3"/>
 </p>
   
 ### Currently learning
