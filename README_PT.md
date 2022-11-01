@@ -6,8 +6,8 @@
 
 ### Entre em contato comigo:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://br.linkedin.com/in/melissa-moll-62318b18b)
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://br.linkedin.com/in/melissa-moll-62318b18b)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://br.linkedin.com/in/melissa-moll-62318b18b)
+[![alt text](https://skillicons.dev/icons?i=discord)](https://discord.com/ "moll#6294")
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/moll.png)
 
 ### Linguagens e ferramentas:
 <p align="cemter">
