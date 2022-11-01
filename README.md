@@ -9,10 +9,10 @@
 [![My Skills](https://skills.thijs.gg/icons?i=discord,instagram,linkedin)](https://www.google.com/search?q=darkmode+github&oq=darkmode+github&aqs=edge..69i57j69i64.1525j0j1&sourceid=chrome&ie=UTF-8#kpvalbx=_4VxhY6ShC8WpptQP1sq4wAE_44)
   
 ### Languages and Tools
-[![front]](https://skills.thijs.gg/icons?i=js,ts,html,css,angular,nodejs)]
-[![back]](https://skills.thijs.gg/icons?i=c,cpp,arduino,cs,py,dotnet)]
-[![database]](https://skills.thijs.gg/icons?i=firebase,mysql)]
-[![tools]](https://skills.thijs.gg/icons?i=figma, git,vscode,visualstudio)]
+[![My Skills]](https://skills.thijs.gg/icons?i=js,ts,html,css,angular,nodejs)]
+[![My Skills]](https://skills.thijs.gg/icons?i=c,cpp,arduino,cs,py,dotnet)]
+[![My Skills]](https://skills.thijs.gg/icons?i=firebase,mysql)]
+[![My Skills]](https://skills.thijs.gg/icons?i=figma, git,vscode,visualstudio)]
   
 ### Currently learning
-[![learning]](https://skills.thijs.gg/icons?i=mongodb,react,tensorflow,linux,raspberry)]
+[![My Skills]](https://skills.thijs.gg/icons?i=mongodb,react,tensorflow,linux,raspberry)]
