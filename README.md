@@ -13,9 +13,6 @@
 ### Languages and Tools
 <p align="cemter">
   <img src="https://skillicons.dev/icons?i=angular,css,html,js,nodejs,arduino,c,cs,cpp,dotnet,py,mysql"/>
-  
-</p>
-<p align="center">
   <img src="https://skillicons.dev/icons?i=figma,git,visualstudio,vscode"/>
 </p>
   
