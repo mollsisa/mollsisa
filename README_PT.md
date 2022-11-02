@@ -7,7 +7,7 @@
 - 📚 Estou no meu primeiro ano na UTFPR!
 - 💻 Sempre gostei de tecnologia, mas somente em 2020 eu tive a oportunidade de realmente estudar sobre!
 - 🎸 Fun Fact: Amo tocar violão/guitarra e violoncelo!
-- 
+
 ### Entre em contato comigo:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://br.linkedin.com/in/melissa-moll-62318b18b)
 [![alt text](https://skillicons.dev/icons?i=discord)](https://discord.com/ "moll#6294")
