@@ -4,7 +4,7 @@
 
 ## Sou Desenvolvedora FullStack e uma entusiasta tech!
 - 🥈 Medalista Worldskills na categoria TI Soluções de Software para Negócios em 2022
-- 📚 Estou no meu primeiro ano na UTFPR!
+- 📚 Estou no meu segundo ano na UTFPR!
 - 💻 Sempre gostei de tecnologia, mas somente em 2020 eu tive a oportunidade de realmente estudar sobre!
 - 🎸 Fun Fact: Amo tocar violão/guitarra e violoncelo!
 
