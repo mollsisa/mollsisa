@@ -10,7 +10,6 @@
 
 ### Connect with me:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://br.linkedin.com/in/melissa-moll-62318b18b)
-[![alt text](https://skillicons.dev/icons?i=discord)](https://discord.com/ "moll#6294")
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/moll.png)
 
 ### Languages and Tools
