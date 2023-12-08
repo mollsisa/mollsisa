@@ -6,7 +6,7 @@
 - 🥈 WorldSkills Medalist IT Software Solutions for Business 2022
 - 📚 I'm a 2nd Year student at UTFPR
 - 💻 I've been into tech universe since birth, but only in 2020 I had the opportunity to really started studying about it!
-- 🎸 Fun Fact: I really love playing the guitar and the cello!
+- 🎸 Fun Fact: I really love playing guitar and cello!
 
 ### Connect with me:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://br.linkedin.com/in/melissa-moll-62318b18b)
