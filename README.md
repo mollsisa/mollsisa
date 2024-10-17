@@ -4,7 +4,7 @@
 
 ## I'm a FullStack Developer and Tech enthusiastic!
 - 🥈 WorldSkills Medalist IT Software Solutions for Business 2022
-- 📚 I'm a 2nd Year student at UTFPR
+- 📚 I'm a 3nd Year student at UTFPR
 - 💻 I've been into tech universe since birth, but only in 2020 I had the opportunity to really started studying about it!
 - 🎸 Fun Fact: I really love playing guitar and cello!
 
